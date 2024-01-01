@@ -1,0 +1,12 @@
+Package: calculateCosineSimilarity
+Type: Package
+Title: 比较词组的相似性
+Version: 0.1.0
+Author: Lei Huang
+Maintainer: Lei Huang <1448868619@qq.com>
+Description: R package for calculating cosine similarity between a query and multiple word lists using C++.
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.3

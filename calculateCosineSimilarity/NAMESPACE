@@ -1,0 +1,3 @@
+useDynLib(calculateCosineSimilarity)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, sourceCpp)
